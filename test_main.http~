@@ -29,8 +29,8 @@ POST http://127.0.0.1:8000/actors
 Content-Type: application/json
 
 {
-  "name": "Jack",
-  "surname": "Nicholson"
+  "name": "Matthew",
+  "surname": "McConaughey"
 }
 
 ###
